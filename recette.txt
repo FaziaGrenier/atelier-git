@@ -1,9 +1,0 @@
-réalisons une pizza 
-
-ingrédients pour pate à pizza : farine, eau, sel, levure
-garniture: 
-- tomate
-- champignons
-- anchois
-- fromage
-
